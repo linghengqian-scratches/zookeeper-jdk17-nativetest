@@ -1,5 +1,5 @@
 - This Git serves https://github.com/oracle/graalvm-reachability-metadata/issues/163
-  and https://github.com/apache/zookeeper/pull/1942
+  and https://lists.apache.org/thread/stjp7nnhjp01129qfyqpwbxw2sylghzk
 
 - Execute the following command in Linux to see the error. Make sure SdkMan and Git are installed.
 
